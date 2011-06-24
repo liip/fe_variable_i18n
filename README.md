@@ -1,8 +1,10 @@
-FE_VARIABLE
-===========
+FE_VARIABLE_I18N
+================
 
-A Drupal 7 module to make core and i18n variables featurable.
+A Drupal 7 module to make i18n variables featurable.
 More on why and how to use Drupal Features module: [here](https://fosswiki.liip.ch/display/DRUPAL/Drupal+7+using+the+features+module)
+
+This module is closely related to the [fe_variable module](https://github.com/liip/fe_variable).
 
 Dependencies
 ------------------
