@@ -1,0 +1,7 @@
+name = "FE variable i18n"
+description = "i18n variables export as features."
+package = "Features extra"
+core = "7.x"
+
+dependencies[] = i18n_variable
+dependencies[] = features
