@@ -8,6 +8,7 @@ This module is closely related to the [fe_variable module](https://github.com/li
 
 Dependencies
 ------------------
+ * [Features Extra Variable](https://github.com/liip/fe_variable)
  * [Features module](http://drupal.org/project/features)
  * [Internationalization](http://drupal.org/project/i18n)
  * [Variable](http://drupal.org/project/variable)
