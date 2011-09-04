@@ -3,5 +3,6 @@ description = "i18n variables export as features."
 package = "Features extra"
 core = "7.x"
 
+dependencies[] = fe_variable
 dependencies[] = i18n_variable
 dependencies[] = features
