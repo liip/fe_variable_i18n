@@ -33,7 +33,6 @@ function fe_variable_i18n_features_export_options() {
  * Implementation of hook_features_export().
  */
 function fe_variable_i18n_features_export($data, &$export, $module_name = '') {
-  $export['dependencies']['fe_variable'] = 'fe_variable';
   $export['dependencies']['i18n_variable'] = 'i18n_variable';
 
   foreach ($data as $name) {
